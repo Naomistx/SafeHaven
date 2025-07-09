@@ -90,10 +90,3 @@ SafeHaven is a decentralized insurance protocol built on the Stacks blockchain t
 4. Ensure all tests pass
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-For questions and support, please open an issue in the repository.
