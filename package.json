@@ -15,6 +15,7 @@
   "dependencies": {
     "@hirosystems/clarinet-sdk": "^2.14.0",
     "@stacks/transactions": "^6.12.0",
+    "chessify-protocol": "^0.1.0",
     "chokidar-cli": "^3.0.0",
     "typescript": "^5.6.0",
     "vite": "^6.1.0",
